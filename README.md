@@ -22,10 +22,9 @@
 
 우체국에서 편지를 보내는 과정과 인터넷에서 패킷을 보내는 방식을 비교해보자
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09ae810e-a06a-43d3-ac48-5bd052f4c5f3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09ae810e-a06a-43d3-ac48-5bd052f4c5f3/Untitled.png)
+https://www.notion.so/2020-11-11-8fe3b7606f854252a561824a809ae9eb#8bf14ff9449747ebbdfea436c6e1759b
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18f0e49d-b1ad-4f43-bf5b-089614e59798/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18f0e49d-b1ad-4f43-bf5b-089614e59798/Untitled.png)
-
+https://www.notion.so/2020-11-11-8fe3b7606f854252a561824a809ae9eb#f9ee4032eb96487db7030a92ea0993fe
 ↑  밑에있는 링크임
 
 [JSFiddle](https://jsfiddle.net/46fkyob8/1/)

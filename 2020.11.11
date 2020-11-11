@@ -1,0 +1,29 @@
+<html>
+<head>
+
+</head>
+<body>
+<h1>
+울릉도 칼국수 4,000원
+</h1>
+<button onClick="message('안녕하세요')">
+장바구니 넣기
+</button>
+<h2>
+남한산성 파전 5,000원 
+</h2>
+<button onClick="message('안녕하세요')">
+장바구니 넣기
+</button>
+<h3>
+현금만 받습니당
+</h3>
+<button onClick="message('안녕하세요')">
+결제하기
+</button>
+</body>
+</html>
+-JAVA SCRIPT 
+function message() {
+alert("주문 완료되었습니당")
+}

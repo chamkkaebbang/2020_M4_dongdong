@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+    <title>감성찐따 고녀뇽</title>
+</head>
+<body>
+    <h1>동동이의 쥬크박스</h1>
+
+    <nav>
+        <ul><li>
+        <li><a href="https://www.youtube.com/channel/UC86led6yJpw3alKzIyxmC_Q?view_as=subscriber">1팀</a></li>
+        <li><a href="">2팀</a></li>
+        <li><a href="">3팀</a></li>
+        <li><a href="">4팀</a></li>
+        </ul>
+    </nav>
+    <p><strong>줌링크는 개인톡으로! </strong></p>
+        <br>
+        
+        <article>
+        내용 2-1
+        </article>
+        <article>
+        내용 2-2
+        </article>
+    <ol>
+        <li><i><b>발라드 노래</b></i></li>
+        <li>힙합노래</li>
+        <li>인기팝송</li>
+    </ol>
+</html> 

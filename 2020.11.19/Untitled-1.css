@@ -1,0 +1,31 @@
+#container {
+    min-height:500px;
+    display: flex;
+    flex-direction: row;
+}
+header {
+	background:darkseagreen;
+	font-size:30px;
+	color:#fff;
+    padding:10px;
+    flex-grow: 1;
+}
+#right-container {
+display: flex;
+flex-direction: column;
+flex-grow: 6;
+}
+main {  
+	background:gray;
+	font-size:30px;
+	color:#fff;
+    padding:10px;
+    float: left;
+    flex-grow: 10;
+}
+footer {
+	background:pink;
+	font-size:30px;
+    flex-grow: 0.5;
+
+}

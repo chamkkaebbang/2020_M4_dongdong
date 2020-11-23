@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1,0">
+    <title>Box Model</title>
+    <style>
+      #wrap{
+        display: inline-block;
+        text-align: center;
+        background-color: yellowgreen;
+        font-size: 0;
+      }
+      .txt1, .txt2{
+        display:inline; 
+        position: relative;
+        border-bottom: 2px solid black;
+        border-top: 2px solid black;
+        font-size: 50px;
+      }
+      .txt1{
+        color: white;
+
+        background-color: skyblue;
+        border-left: 2px solid black;
+      
+              }
+      .txt2{
+        color: white;
+        display: inline-block;
+        background-color: tomato;
+        border-right: 2px solid black;
+
+      }
+    </style>
+</head>
+<body>
+    <div id="wrap">
+      <p class="txt1">2020년</p>
+      <p class="txt2">11월 16일</p>
+    </div>
+</body>
+</html>

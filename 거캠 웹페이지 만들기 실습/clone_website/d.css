@@ -1,0 +1,16 @@
+/* layout */
+header {
+    height: 100px;
+    border-bottom: 1px solid gray;
+}
+main {
+
+}
+footer {
+    background: darkblue;
+    padding: 30px 0;
+}
+.inner-container {
+    width: 1040px;
+    margin: 0 auto;
+}
